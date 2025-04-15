@@ -13,7 +13,7 @@ This project analyzes IMDb’s top 5000 movies using Python for data analysis an
 - Kaggle IMDb Dataset
 
 ## Report Preview
-![Dashboard Preview](Dashboard%20Screenshot.png)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/8719f537-51da-4671-aec4-42727a563c53)
 
 ## Files Included
 - `IMDb Report.pbix` – Power BI dashboard
