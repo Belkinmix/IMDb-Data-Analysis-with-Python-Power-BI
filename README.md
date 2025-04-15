@@ -10,7 +10,7 @@ This project analyzes IMDb’s top 5000 movies using Python for data analysis an
 ## Tools Used
 - Python (pandas, sklearn, seaborn)
 - Power BI
-- Kaggle IMDb Dataset
+- Kaggle IMDb Dataset - https://www.kaggle.com/datasets/tiagoadrianunes/imdb-top-5000-movies
 
 ## Report Preview
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/8719f537-51da-4671-aec4-42727a563c53)
